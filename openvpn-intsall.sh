@@ -71,14 +71,6 @@ sudo pritunl setup-key
 
 echo ""
 echo ""
-echo "DEFAULT USER VA PASSWORD"
-echo ""
-echo ""
-sleep 2s
-sudo pritunl default-password
-
-echo ""
-echo ""
 echo "DA HOAN THANH CAI DAT OPEN VPN SERVER"
 echo ""
 echo ""
